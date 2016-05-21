@@ -6,7 +6,6 @@ It was prompted by the [following tweet](https://twitter.com/nolanlawson/status/
 
 ![screenshot of above linked tweet](./assets/TheTweetThatStartedThis.png)
 
-
 # Setup
 
 1. `git clone https://github.com/staxmanade/javascript-promise-test.git`
@@ -23,7 +22,6 @@ It was prompted by the [following tweet](https://twitter.com/nolanlawson/status/
 
 ## Good luck!
 
-
-
 > P.S. I like to think I'm pretty good with promises, but I got question #3 wrong the first time I tried it :cry:.
 
+P.P.S. Read the [following post](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) to get some background on the original tweet above (and the answers)
