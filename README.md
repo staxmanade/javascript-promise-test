@@ -16,7 +16,7 @@ It was prompted by the [following tweet](https://twitter.com/nolanlawson/status/
 
 1. Open the [test.js](test.js) file
 2. Read the test code (all of it)
-3. Fore each `expect(result).to.equal("???");` replace `"???"` with what you "think" the `result` will be.
+3. For each `expect(result).to.equal("???");` replace `"???"` with what you "think" the `result` will be.
 4. Once you've filled in an answer for each of the tests/questions run `npm test` at the command prompt and see how you did.
 
 
